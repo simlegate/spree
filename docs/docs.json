@@ -857,7 +857,8 @@
               {
                 "group": "Payments",
                 "pages": [
-                  "integrations/payments/stripe"
+                  "integrations/payments/stripe",
+                  "integrations/payments/paypal"
                 ]
               },
               {
@@ -924,6 +925,13 @@
                   "user/orders/cancelling-orders",
                   "user/orders/refunding-orders",
                   "user/orders/searching-orders"
+                ]
+              },
+              {
+                "group": "Returns",
+                "pages": [
+                  "user/settings/returns-configuration",
+                  "user/returns/returns-processing"
                 ]
               },
               {
